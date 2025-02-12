@@ -23,10 +23,10 @@ To get started with this project, follow these steps:
 ## Usage
 
 
--User can see 5 job posts per page, if needed more Pagination is implemented below
--User can filter the posts using Searchbar(Title) and dropdown(Company name)
--For better Ux , If the deadline is reached then it will show in red color
--The job Provider vontact number is provided with copy to clipboard button for easy access
+- User can see 5 job posts per page, if needed more Pagination is implemented below
+- User can filter the posts using Searchbar(Title) and dropdown(Company name)
+- For better Ux , If the deadline is reached then it will show in red color
+- The job Provider vontact number is provided with copy to clipboard button for easy access
 
 
 ## Contributing
