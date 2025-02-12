@@ -42,7 +42,7 @@ If you would like to contribute to this project, please follow these guidelines:
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact us at [vidhyasagargslv@example.com](mailto:vidhyasagargslv@gmail.com).
+If you have any questions or suggestions, please feel free to contact us at [vidhyasagargslv@gmail.com](mailto:vidhyasagargslv@gmail.com).
 
 ## Deployment
 
